@@ -1,0 +1,17 @@
+{
+  "name": "HNR-DEV",
+  "symbol": "HNRD",
+  "description": "Home & Rescue development token for technical testing on Solana.",
+  "image": "http://127.0.0.1:8000/logo.png",
+  "external_url": "https://homeandrescue.org",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Development"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Local / Surfpool"
+    }
+  ]
+}
