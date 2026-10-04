@@ -1,0 +1,17 @@
+{
+  "name": "Home & Rescue",
+  "symbol": "HNR",
+  "description": "Home & Rescue is a global social impact project connecting digital assets with recycling and economic opportunity.",
+  "image": "https://homeandrescue-a11y.github.io/HNR-DEV/logo.png",
+  "external_url": "https://homeandrescue.org",
+  "attributes": [
+    {
+      "trait_type": "Environment",
+      "value": "Production"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    }
+  ]
+}
